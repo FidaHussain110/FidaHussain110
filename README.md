@@ -1,8 +1,8 @@
 #  About Me:
- - 🚀 On a *mission** to go from fundamentals to production-grade AI.<br>
+ - 🚀 On a **mission** to go from fundamentals to production-grade AI.<br>
  - 🔨 Currently working on: **Python · SQL · MongoDB · Pandas · EDA**<br>
  - 💬 Ask me about **Python, AL/ML basics or databases.** <br>
- - ⚡Worth knowing fact: **Discipline beats motivation. Every single time.**
+ - ⚡Worth knowing fact: **Discipline beats motivation. Every single time.**<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=FidaHussain110&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
