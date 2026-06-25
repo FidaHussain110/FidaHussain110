@@ -1,4 +1,4 @@
-# Hi, I am Fida:
+# Hi, I am Fida
  - 🚀 On a **mission** to go from fundamentals to production-grade AI.<br>
  - 🔨 Currently working on: **Python · SQL · MongoDB · Pandas · EDA**<br>
  - 💬 Ask me about **Python, AL/ML basics or databases.** <br>
